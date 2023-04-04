@@ -1,0 +1,1 @@
+A python script I found at https://matplotlib.org/matplotblog/posts/animated-fractals/ which generates gif files of fractals using matplotlib on Python. It is an opportunity for me to review some python workflow and maybe use this framework with some other fractals that weren't on the blog post
